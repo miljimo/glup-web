@@ -1,0 +1,28 @@
+{
+  "name": "gmpctool",
+  "version": "0.0.1",
+  "description": "Consys online graphical MZX Panel Configuration Tool",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "webpack --watch"
+  },
+  "keywords": [
+    "Consys",
+    "MZX",
+    "Panel"
+  ],
+  "author": "obaro I. Johnson <johnson.obaro@yahoo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-cleanup": "^1.0.0",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0",
+    "pump": "^3.0.0"
+  },
+  "dependencies": {}
+}
